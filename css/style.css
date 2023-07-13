@@ -50,7 +50,7 @@ h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #007bff;
+  background: #34c0df;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -483,14 +483,14 @@ h6 {
 --------------------------------*/
 
 .section-bg {
-  background: #ecf5ff;
+  background: #e9e7e8;
 }
 
 /* About Us Section
 --------------------------------*/
 
 #about {
-  background: #fff;
+  background: #ffffff;
   padding: 60px 0;
 }
 
@@ -546,12 +546,12 @@ h6 {
   flex-direction: column;
   text-align: center;
   border-radius: 50%;
-  border: 2px solid #007bff;
+  border: 2px solid #34c0df;
   transition: all 0.3s ease-in-out;
 }
 
 #about .about-container .icon-box .icon i {
-  color: #007bff;
+  color: #34c0df;
   font-size: 24px;
 }
 
@@ -603,7 +603,7 @@ h6 {
   overflow: hidden;
   border-radius: 10px;
   margin: 0 10px 40px 10px;
-  background: #fff;
+  background: #ffffff;
   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
   transition: all 0.3s ease-in-out;
 }
